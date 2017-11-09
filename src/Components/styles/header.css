@@ -1,0 +1,12 @@
+
+.header {
+    background: red;
+}
+
+.header div.ui.container h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    letter-spacing: 1em;
+}
